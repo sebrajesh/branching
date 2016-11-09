@@ -1,0 +1,4 @@
+#local ignore
+*.out
+*.tmp
+tmp/*
